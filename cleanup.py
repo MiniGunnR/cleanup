@@ -21,4 +21,4 @@ for f in onlyfiles:
             os.makedirs(dir)
         move(f, dir)
 
-print "All your file(s) have been moved inside a folder called 'cleanup'."
+print("All your file(s) have been moved inside a folder called 'cleanup'.")
